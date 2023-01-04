@@ -12,4 +12,4 @@ tecnicas:
 hacking con buscadores(Google)
     site: url.com archivo/txt/pdf/ventana
 
-´´´
+```
