@@ -10,3 +10,6 @@ La busqueda realizada es minimamente detectada por el objetivo
 tecnicas:
 ´´´
 hacking con buscadores(Google)
+    site: url.com archivo/txt/pdf/ventana
+
+´´´
