@@ -7,9 +7,9 @@ La recoleccion de informacion es a traves de la informacion almacenda en lugares
 
 La busqueda realizada es minimamente detectada por el objetivo
 
-_tecnicas:
+1.1 Tecnicas:
 ```
 hacking con buscadores(Google)
-    -site: url.com archivo/txt/pdf/ventana
+- site: url.com archivo/txt/pdf/ventana
 
 ```
