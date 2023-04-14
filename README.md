@@ -1,4 +1,4 @@
-# Curse
+# Cybersecurity
 ## curso 2023 cybersecurity
 
 1.*** Recopilacion Pasiva de informacion**
