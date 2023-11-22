@@ -8,7 +8,7 @@ La recoleccion de informacion es a traves de la informacion almacenda en lugares
 La busqueda realizada es minimamente detectada por el objetivo
 
 1.1 
-Tecnicas:
+Tecnicas(atajos):
 ```
 hacking con buscadores(Google):
 -filetype:término - Las búsquedas se restringen a páginas cuyos nombres acaben en el término especificado. Sobretodo se utiliza para determinar la extensión de los ficheros requeridos. Nota: el comando ext:término se usa de manera equivalente.
